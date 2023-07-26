@@ -2,10 +2,10 @@
 ## Setup
 
 1.Clone the repository or download the source code.
+   git clone https://github.com/Sharadp303/Authentication.git
 
 2.Install dependencies:
             npm install
-
 
 3.Create a .env file in the root of the project and add the following environment variables:
 
