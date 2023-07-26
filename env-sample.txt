@@ -1,0 +1,10 @@
+DBURL=''
+PORT=
+SESSIONSECRETKEY=""
+JWTSECRETKEY=""
+
+googleClientID=''
+googleClientSecret=''
+
+facebookClientID=''
+facebookClientSecret=''
